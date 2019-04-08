@@ -14,7 +14,7 @@ Get into it and compile the project:
 	cd [folder's name you want]
 	make
 
-Test with the test files from the folder (you can also create your ouw test files):
+Test with the test files from the folder (you can also create your own test files):
 
 	./fillit 
 
@@ -41,7 +41,6 @@ The file with Tetriminos should contain between 1 and 26 Tetriminos. The descrip
 2) A Tetrimino is a classic piece of Tetris composed of 4 blocks
 3) Each character must be either a block character(’#’ ) or an empty character (’.’)
 4) Each block of a Tetrimino must touch at least one other block on any of his 4 sides (up, down, left and right)
-
 
 # Grade
 # 125/100
