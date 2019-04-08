@@ -20,10 +20,10 @@ So, your steps:
 
 **NOTE:** The program works only with one testing file that are (from the folder):
 	invalid
-	invalid1
-The output will be "error" because of the wrong Tetriminos
+	invalid1 - 
+The output will be "error" because of the wrong Tetriminos. And for:
 	test
-	test_full
+	test_full - 
 The output will be the smallest possible square with all the Tetriminos named with letters.
 
 Go and try. Good luck!
