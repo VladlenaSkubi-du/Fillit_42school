@@ -5,16 +5,16 @@ The project assembles a given Tetriminos set altogether in the smallest possible
 There are two folders: srcs with all the c-files needed for the project and includes with the header file.
 
 So, your steps:
-1) Clone the repository
+Clone the repository
 
 	git clone https://github.com/VladlenaSkubi-du/Fillit_42school.git [folder's name you want] 
 
-2) Get into it and compile the project:
+Get into it and compile the project:
 
 	cd [folder's name you want]
 	make
 
-3) Test with the test files from the folder (you can also create your ouw test files):
+Test with the test files from the folder (you can also create your ouw test files):
 
 	./fillit 
 
