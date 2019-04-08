@@ -18,7 +18,13 @@ So, your steps:
 
 	./fillit 
 
-**NOTE:** The program works only with one testing file
+**NOTE:** The program works only with one testing file that are (from the folder):
+	invalid
+	invalid1
+The output will be "error" because of the wrong Tetriminos
+	test
+	test_full
+The output will be the smallest possible square with all the Tetriminos named with letters.
 
 Go and try. Good luck!
 
