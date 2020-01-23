@@ -12,6 +12,7 @@ Clone the repository
 Get into it and compile the project:
 
 	cd [folder's name you want]
+	git submodule add https://github.com/VladlenaSkubi-du/libft_42school.git libft
 	make
 
 Test with the test files from the folder (you can also create your own test files):
